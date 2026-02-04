@@ -5,3 +5,9 @@ across multiple experimental designs, including RCBD, CRD,
 factorial designs, split-plot, and strip-plot designs.
 
 Scripts emphasize automation and reproducible export of results.
+## Available Scripts
+
+### run_anova_export.R
+- Supports RCBD, CRD, factorial, split-plot, and strip-plot designs
+- Automates ANOVA across multiple response variables
+- Exports results to Excel (one sheet per trait)
