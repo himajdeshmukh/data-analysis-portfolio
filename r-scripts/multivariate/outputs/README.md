@@ -5,14 +5,14 @@ multivariate analyses (GT, GYT, MGIDI, and GGE biplots).
 ## Output Figures
 
 ### GT Biplot
-![GT Biplot](outputs/GT.png)
+![GT](outputs/GT.png)
 
 ### GYT Biplot
-![GYT Biplot](outputs/GYT.png)
+![GYT](outputs/GYT.png)
 
 ### MGIDI Biplot
-![MGIDI Biplot](outputs/MGIDI_1.png)
-![MGIDI Biplot](outputs/MGIDI_2.png)
+![MGIDI_1](outputs/MGIDI_1.png)
+![MGIDI_2](outputs/MGIDI_2.png)
 
 ### GGE Biplot
-![GGE Biplot](outputs/GGE.png)
+![GGE](outputs/GGE.png)
