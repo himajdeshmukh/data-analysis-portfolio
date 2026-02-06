@@ -6,7 +6,7 @@ Implements Griffing's Method II for half-diallel crosses to estimate:
 
 ## Scope of Analysis
 
-This script performs **single-location diallel analysis** using
+The file griffing_method2_single_location performs **single-location diallel analysis** using
 **Griffing’s Method II (Model I)**.
 
 Although the input dataset may contain a location identifier,
