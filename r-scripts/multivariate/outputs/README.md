@@ -5,7 +5,7 @@ multivariate analyses (GT, GYT, MGIDI, and GGE biplots).
 ## Output Figures
 
 ### GT Biplot
-![GT](outputs/GT.png)
+![GT.png](outputs/GT.png)
 
 ### GYT Biplot
 ![GYT](outputs/GYT.png)
