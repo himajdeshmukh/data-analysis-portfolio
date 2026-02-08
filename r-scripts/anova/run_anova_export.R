@@ -135,13 +135,13 @@ run_anova_export <- function(
 }
 
 run_anova_export(
-  data = frbd3fact_cv_LONG,
+  data = frbd3fact,
   resp_cols = 5:8,
   design = "frbd3fact", #change design
   factors = list(
     replication = frbd3fact_cv_LONG$Replication,
     FactorA = frbd3fact_cv_LONG$Variety, #change according to design
-    FactorB = frbd3fact_cv_LONG$Intensity,
+    FactorB = frbd3fact_cv_LONG$Intensity,#change according to design
     FactorC = frbd3fact_cv_LONG$Duration#change according to design
   ),
   test = 1
