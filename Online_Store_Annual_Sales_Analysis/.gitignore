@@ -1,0 +1,11 @@
+# Ignore temporary and system files
+
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore Excel autosave files
+
+~$*.xlsx
