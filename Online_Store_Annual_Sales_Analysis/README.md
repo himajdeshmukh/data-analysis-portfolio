@@ -73,12 +73,11 @@ Online-Store-Analysis/
 └── dashboard_preview.png
 
 
-## Future Improvements
+## Dataset
+The Excel file is included in this repository.
 
-* Add SQL or Python-based analysis.
-* Build an interactive dashboard in Power BI or Tableau.
-* Perform customer segmentation and predictive analysis.
-* Analyze repeat purchase behavior.
+Note: GitHub may not preview the file in the browser due to size.
+Please download it to view the full dataset and dashboard.
 
 
 ## Author
